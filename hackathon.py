@@ -4,7 +4,10 @@ import subprocess
 
 import sys
 
-conn = sql.connect(host = "localhost", user = "sqluser",passwd = "password",database = "HACKATHON_DB")
+"""
+CONNECTION TO SQL DATABASE HAS BEEN REMOVED FOR SECURITY
+CONNECTION TO SQL DATABASE IS REPRESENTED BY VARIABLE NAME conn
+"""
 
 cursor = conn.cursor()
 
