@@ -2,7 +2,7 @@
 Hackathon simulation  
 This project is meant for me to expand my knowledge with mySql databases and connecting databases to Python scripts.  
 
-This project is a simulation of a hackathon with seperate areas for participants and developers.  
+This project is a simulation of a hackathon with separate areas for participants and developers.  
 
 The participants can input the names of files that they submit for solutions. In an expanded version of this, the participants would have a webpage that they could upload files through and these files would be screened through a security process. The Python script then runs the file in a subprocess environment and analyzes the output to see if the solution is correct.  
 
